@@ -1,7 +1,6 @@
 #include <TimeLib.h>
 #include <TimeAlarms.h>
 
-
 const int buzzerPin = 15;
 
 void setup() {
